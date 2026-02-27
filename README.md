@@ -73,4 +73,4 @@ Dưới đây là các hình ảnh minh họa giao diện hoạt động của h
 - Họ và tên: Nguyễn Tiến Cường.
 - Đơn vị: Khoa Toán - Tin, Đại học Bách Khoa Hà Nội (HUST).
 - Chuyên ngành: Toán - Tin.
-- Lĩnh vực quan tâm: Artificial Intelligence, Computer Vision và Web Development.
+- Lĩnh vực quan tâm: Artificial Intelligence, Machine Learning, Deep Learning, Data Scince.
