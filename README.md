@@ -23,7 +23,7 @@ FaceGuard AI là một hệ thống phát hiện hình ảnh giả mạo (Deepfa
 
 ## DATASET AND TRAINING
 Dự án sử dụng bộ dữ liệu "140k Real and Fake Faces" từ nền tảng Kaggle để huấn luyện và đánh giá.
-- Nguồn dữ liệu: [140k Real and Fake Faces (Kaggle)]https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces
+- Nguồn dữ liệu: [140k Real and Fake Faces (Kaggle)](https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces)
 - Quy mô mẫu trích xuất: 7,000 hình ảnh chất lượng cao.
 - Phân tách dữ liệu:
   - Training set: 5,000 ảnh (Dùng để huấn luyện mô hình).
